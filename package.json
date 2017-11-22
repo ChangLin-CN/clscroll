@@ -1,0 +1,22 @@
+{
+  "name": "clscroll",
+  "version": "0.0.0",
+  "description": "scroll",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChangLin-CN/clscroll.git"
+  },
+  "keywords": [
+    "scroll"
+  ],
+  "author": "changlin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChangLin-CN/clscroll/issues"
+  },
+  "homepage": "https://github.com/ChangLin-CN/clscroll#readme"
+}

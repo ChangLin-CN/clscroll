@@ -1,0 +1,11 @@
+src
+.idea
+.babelrc
+test
+README.tpl.js
+package-lock.json
+umd
+test
+demo.js
+test.html
+yarn.lock
